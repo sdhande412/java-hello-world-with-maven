@@ -47,6 +47,5 @@
                 </executions>
             </plugin>
         </plugins>
-        <finalname>devops_int<finalname>
     </build>
 </project>
