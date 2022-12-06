@@ -47,5 +47,6 @@
                 </executions>
             </plugin>
         </plugins>
+         <defaultGoal>devops-int</defaultGoal>
     </build>
 </project>
